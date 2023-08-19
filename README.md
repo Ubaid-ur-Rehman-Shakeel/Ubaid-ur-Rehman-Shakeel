@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]
+
 <h1 align="center">Hi 👋, I'm Ubaid-ur-Rehman</h1>
 <h3 align="center">A passionate Full Stack developer From Pakistan</h3>
 
